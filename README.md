@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the repository for the book [Prompt Engineering for Beginners](https://www.amazon.in/dp/B0CL3F71GD) published by [Arcchie Publications](https://arcchieonline.com). This repository contains resources, code examples, and supplementary materials related to the book. Whether you're a reader of the book or an author, this readme provides essential information about the repository's contents.
+Welcome to the repository for the book [Prompt Engineering for Beginners: A Comprehensive Guide](https://www.amazon.com/dp/B0D87DSZVN) published by [Arcchie Publications](https://arcchieonline.com). This repository contains resources, code examples, and supplementary materials related to the book. Whether you're a reader of the book or an author, this readme provides essential information about the repository's contents.
 
 ## Table of Contents
 
@@ -16,15 +16,15 @@ Welcome to the repository for the book [Prompt Engineering for Beginners](https:
 8. [Community](#community)
 
 ## About the Book
-<a href="https://arcchieonline.com/books"><img src="https://m.media-amazon.com/images/I/71CoVef1cpL._SL1500_.jpg" height="300px" align="right"></a>
-_The SQL Ready Reckoner - Your Essential Guide to Mastering SQL_ is carefully crafted to be your trusted companion on the journey to becoming proficient in Structured Query Language (SQL). Whether you're a newcomer to the world of databases or a seasoned IT professional seeking a quick reference, this book is designed to meet your needs. In an era dominated by data, SQL has become an indispensable tool. From managing vast datasets to extracting valuable insights, SQL is the language of choice for interacting with relational databases. However, learning a new programming language can be daunting, especially if you're starting.  This book was born from a simple but profound idea: to make SQL learning accessible, practical, and enjoyable for everyone. We understand that not everyone comes from an IT background, and that's fine. SQL Ready Reckoner is here to bridge that gap. SQL Ready Reckoner is not your typical SQL textbook. We've distilled complex concepts into plain language and practical examples. Whether you're aiming to build a solid foundation or looking to sharpen your SQL skills, this book covers it all. SQL Ready Reckoner is for anyone who wants to harness the power of SQL. Whether you're a student, a database administrator, a developer, or an aspiring data analyst, you'll find valuable insights and guidance within these pages. We dedicate this book to individuals like you who are enthusiastic about learning and leveraging SQL's capabilities. Your desire for knowledge and commitment to mastering SQL serve as our inspiration. Let us embark together on this odyssey of discovery, innovation, and limitless imagination. In conclusion, this book stands as a testament to the power of collaboration and community. A lot of individuals mentioned played a pivotal role in bringing this project to fruition, and we are truly grateful for their involvement.
-
+<a href="https://arcchieonline.com/books"><img src="/resources/9788196612771_Thumbnail.jpg" height="300px" align="right"></a>
+Prompt Engineering has emerged as a transformative technique for enhancing creativity and productivity in various fields. This book provides a comprehensive and beginner-friendly introduction to Prompt Engineering, equipping readers with the knowledge and skills to harness its potential. From understanding the basics to applying advanced strategies, this guide is a steppingstone for anyone looking to excel in creative writing, problem-solving, and idea generation.
+"Prompt Engineering for Beginners" is a one-stop resource that demystifies the world of prompt-driven creativity. Prompt Engineering involves crafting thought-provoking prompts that stimulate innovative thinking, making it an invaluable skill for writers, artists, educators, and professionals in diverse domains. This book delves into the core concepts of Prompt Engineering, unraveling its methodologies and techniques through practical examples and exercises. From generating ideas to overcoming creative blocks, readers will discover the power of prompts in fostering creativity and expanding their imaginative horizons.
 
 
 ## Repository Contents
 
 - **/code-examples**: This directory contains code examples discussed in the book.
-- **/resources**: Supplementary resources, such as data files or additional reading materials, can be found here.
+- **/resources**: Supplementary resources, such as data files or additional reading materials, colored images can be found here.
   
 ## Getting Started
 
@@ -38,21 +38,22 @@ To get started with the book and the materials in this repository:
 
 The `/code-examples` directory contains practical code samples that align with the content of the book. Feel free to explore and use these examples for your learning and experimentation.
 
-The code will look like the following:
+The prompt will look like:
 ```
-Select empcode,empname,deptcode,job,sal,Hiredate as "Job Start Date" from emp order by “Job Start Date" desc
+Please provide the description of the book 'Prompt Engineering for Beginners: A Comprehensive Guide' by Kapila Arora 
 
 ```
 
 ## About the Authors
 
-**Praveen K Sharma** is a visionary leader with over two decades of industry experience in Database and Project management, Delivery, and customer relations. He has been involved in multiple On site and Offshore assignments with Client facing interactions, Delivery Management of projects driving large workforce in multicultural environment across locations. With strong leadership skills, his expertise spans Strategy Consulting, Enterprise Transformation, Analyst Communications, and more.
+**Kapila Arora** is a Senior Certified Architect at IBM, having almost 20 years. She is a thought leader in Conversation AI, Enterprise Hybrid and Multi Cloud Architectures, specializing in Application Integration, Data, Infrastructure and Government Blockchain Solution. She is leading and supporting diversity, Women in the tech (WIT) and mentoring programs within IBM. She has been awarded & recognitions throughout her journey within IBM and Previous Organization. 
 
-**Deepak Gupta** is an IT Professional with over two decades of experience with a strong focus on Innovation & delivery excellence. Deepak has extensively worked in the fields of Hybrid Multi-Cloud, Application transformation with Microservices, AI, and Internet Security. Deepak is an IBM Master Inventor with 20+ granted/filed patents and 30+ IP.com publications. Deepak has been a Mentor of Change with AIM Niti Aayog, Govt of India, and a Business Coach in the Business Blaster program with Govt of NCT of Delhi.
+**Geetu Garg** is a Senior Advisory Application Architect with over 18 years of experience in technology and works with top notch clients in cross industry domains. She helps organizations build and modernize their IT landscape with her expertise in Hybrid Cloud and GenAI and has been recognized with several awards and recognitions throughout her journey.
+She leads several initiatives for Women in Technology for IBM Consulting and IBM Financial Services. She is a technology evangelist and loves to support and mentor people in her organization and beyond. She is an active member of external organisations and has a very good external eminence in technology and leadership.
 
-**Naveen Bhardwaj** is a Solution Architect with 18 years of extensive experience in database/Project management with global client in different sectors and technological domains. Beside database management, Naveen's area of expertise includes cloud migration, Cloud Infrastructure management, application setup, and more. Naveen is also, as a physicist, trying to explore Quantum computing and its application in the AI era.
+**Gaurav Aroraa** is a Sr. Enterprise Architect at IBM with over 27 years of industry experience, encompassing a wide range of technologies. He has achieved notable accomplishments throughout his career, including a MuleSoft Mentor, recipient of Microsoft MVP award and serving as a Mentor of Change with AIM NITI Aayog, Govt. of India, Business Coach with Business Blaster, Govt of NCT of Delhi. He is a lifetime member of the Computer Society of India (CSI), an advisory member and senior mentor at IndiaMentor, certified as a Scrum trainer and coach, ITIL-F certified, and PRINCE-F and PRINCE-P certified. Gaurav is an open-source developer and a contributor to the Microsoft TechNet community. He has authored books across-the-technologies. Recently, Gaurav has been recognized as a world record holder for writing books in exceptional technologies.
+Gaurav recently achieved the distinction of being recognized as a World Record holder for his exceptional book writing in technologies. He holds 15 patents in disciplined technologies Gaurav is passionate about sharing his knowledge and believes in the principle of ‘sharing is caring”. He actively mentors underprivileged students and is associated with the NGO Shiksha Ek Pahal
 
-**Shitij Nagpal** is a dynamic and adept leader boasting more than twenty years of industry & IT delivery experience. With an extensive track record of catering to diverse clients across various global regions, his expertise spans managing business Intelligence/analytics, infrastructure management, data center migrations, and the setup of complex applications.  Shitij's two innovative publications were published in IP.com in 2023. Shitij has been appointed as Business Coach in the Business Blaster program with Govt of NCT of Delhi.
 
 ## Feedback and Contributions
 
